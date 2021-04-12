@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/gvirtue/python/chatbot/model.tflearn"
+all_model_checkpoint_paths: "/home/gvirtue/python/chatbot/model.tflearn"
